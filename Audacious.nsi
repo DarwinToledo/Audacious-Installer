@@ -31,7 +31,7 @@
 #===========================================================
 
       ;!define DEV
-      !define DEV2
+      ;!define DEV2
 
       !define PRODUCT_NAME    "Audacious"
       !define PRODUCT_WEBSITE "http://audacious-media-player.org/"
@@ -45,7 +45,6 @@
          #Version
          !define VERSION "@PACKAGE_VERSION@"
       !else
-         !define TEST_WITHOUTFILES
          !define VERSION "3.8-beta2"
       !endif
       

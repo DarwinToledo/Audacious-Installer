@@ -1,8 +1,8 @@
 Audacious Installer - v2.0
 
-Copyright 2016 Darwin Toledo - http://www.darwintoledo.com/
+Copyright (c)2016 Darwin Toledo - http://www.darwintoledo.com/
 
-Based on audaciois.nsi - Copyright 2013-2016 Carlo Bramini and John Lindgren
+Based on audaciois.nsi - Copyright (c) 2013-2016 Carlo Bramini and John Lindgren
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
