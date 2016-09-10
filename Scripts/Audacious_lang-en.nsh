@@ -1,6 +1,6 @@
 #===========================================================
 # AUDACIOUS ENGLISH LANGUAGE FILE v1.0 09/09/2016
-# (c)2016 - Darwin Toledo - http://www.darwintoledo.com/
+# (c)2016 - Darwin Toledo
 #===========================================================
 
         LangString INSTTYPE_FULL         ${LANG_ENGLISH} "Full"
