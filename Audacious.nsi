@@ -58,7 +58,7 @@
           OutFile          "${PRODUCT_NAME}-${VERSION}-win32-${DATE}.exe"
           RequestExecutionLevel admin
 
-          SetCompressor    /SOLID /FINAL lzma
+          SetCompressor    /FINAL /SOLID lzma
           CRCCheck         On
           XPStyle          On
 

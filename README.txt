@@ -21,10 +21,12 @@ the use of this software.
 
 - INSTALLER CHANGELOG - 09/09/2016
 
-- Add: Abort Warning Message Box
-- Add: CRC Check
-- Add: Multilanguage Support
-- Add: Sections Description
-- Add: Welcome Finish Bitmap
-- Fixed: Compression Metod
-- Misc: Source Improvements
+- Add: Abort Warning Message Box ()
+- Add: CRC Check (if the installer is modified or incomplete- shows message box error)
+- Add: Multilanguage Support (installer in multiple languages)
+- Add: Sections Description (Show a description for each installer section)
+- Add: Welcome Finish Bitmap ()
+- Fixed: Compression Metod ()
+- Misc: Source Improvements (code easier to understand)
+
+
